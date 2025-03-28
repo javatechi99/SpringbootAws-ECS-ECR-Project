@@ -37,7 +37,7 @@ public class EmployeeController {
 	public String welcomeTest() {
 		logger.trace("it is trace method welcome calling");
 		logger.info("wel come method is working");
-		return "WELCOME TO SPRING BOOT APPLICATION INTEGRATION WITH TOMCAT BY USING JENKINS PIPELINE BY USER NEW ADDED IS TECHI ADING DOCKER AND SONAR";
+		return "WELCOME TO AWS APPLICATION TO TEST FIRST APPPLICATION";
 	}
 
 	@PostMapping("/save")
